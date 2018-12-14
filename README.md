@@ -14,3 +14,6 @@ https://github.com/python-advance/sem5-collections-AnotherStudent/tree/master/la
 
 ## Разделение списка
 Для разделения списка была написана соответсующая функция, принимающая на вход список и лямбду - критерий разделения.
+
+# Разделение Dict
+https://github.com/python-advance/sem5-collections-AnotherStudent/tree/master/lab3
